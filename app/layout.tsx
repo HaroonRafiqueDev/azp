@@ -5,6 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://botyama.com"),
   title: "Botyama - AI Automation & Web Solutions",
   description: "Premium web development and AI automation services. Get your custom website for just $50/month.",
   openGraph: {

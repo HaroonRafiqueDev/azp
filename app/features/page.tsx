@@ -5,7 +5,7 @@ import PageHeader from "@/components/PageHeader";
 
 export default function FeaturesPage() {
     return (
-        <main className="min-h-screen bg-background text-white">
+        <main className="min-h-screen text-white">
             <Navbar />
             <PageHeader
                 title="Powerful Features"

@@ -5,7 +5,7 @@ import { Mail, MapPin, Phone } from "lucide-react";
 
 export default function ContactPage() {
     return (
-        <main className="min-h-screen bg-background text-white">
+        <main className="min-h-screen text-white">
             <Navbar />
             <PageHeader
                 title="Get in Touch"

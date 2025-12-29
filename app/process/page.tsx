@@ -28,7 +28,7 @@ export default function ProcessPage() {
     ];
 
     return (
-        <main className="min-h-screen bg-background text-white">
+        <main className="min-h-screen text-white">
             <Navbar />
             <PageHeader
                 title="How It Works"
